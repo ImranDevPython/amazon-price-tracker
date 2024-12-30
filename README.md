@@ -5,13 +5,13 @@ A Python-based Amazon price tracker that monitors product prices and sends email
 ## 🎬 Demo
 
 ### Main Menu Interface
-![Main Menu](docs/images/amazon1.png)
+![Main Menu](docs/images/amazon1.PNG)
 
 ### Adding New Products
-![Adding Products](docs/images/amazon2.png)
+![Adding Products](docs/images/amazon2.PNG)
 
 ### Tracked Products Overview
-![Tracked Products](docs/images/amazon3.png)
+![Tracked Products](docs/images/amazon3.PNG)
 
 ## ✨ Features
 
